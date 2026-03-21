@@ -31,7 +31,7 @@ Each assignment focuses on applying deep learning techniques to different data m
 ### 🔹 Assignment 1 — Deep Learning Model Comparison
 
 - 📖 Description: Compare model families across image, text, and multimodal data  
-- 📎 Project Page: [View Assignment 1](./assignment1/)  
+- 📎 Project Page: [View Assignment 1](https://github.com/thanh-industry/deep-learning-asm01)  
 - 💻 Repository: https://github.com/thanh-industry/deep-learning-asm01  
 
 ---
