@@ -36,7 +36,7 @@ Each assignment focuses on applying deep learning techniques to different data m
 
 ---
 
-### 🔹 Assignment 2 — [Tên bài tập 2]
+### 🔹 Assignment 2 — []
 
 - 📖 Description: []  
 - 📎 Project Page: [](./assignment2/)  
@@ -44,7 +44,7 @@ Each assignment focuses on applying deep learning techniques to different data m
 
 ---
 
-### 🔹 Assignment 3 — [Tên bài tập 3]
+### 🔹 Assignment 3 — []
 
 - 📖 Description: []  
 - 📎 Project Page: [](./assignment3/)  
