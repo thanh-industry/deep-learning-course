@@ -17,7 +17,7 @@
 | Pham Van Thanh | 2570496 |
 | Dong Quang Tri | [MSSV] |
 | Khoa | [MSSV] |
-| Hieu | [MSSV] |
+| Bui Minh Hieu | 2570406 |
 
 ---
 
