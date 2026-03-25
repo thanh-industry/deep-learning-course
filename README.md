@@ -15,8 +15,8 @@
 | Name | Student ID |
 |------|------------|
 | Pham Van Thanh | 2570496 |
-| Dong Quang Tri | [MSSV] |
-| Khoa | [MSSV] |
+| Dong Quang Tri | 2570523 |
+| Ngo Le Khoa | 2570432 |
 | Bui Minh Hieu | 2570406 |
 
 ---
