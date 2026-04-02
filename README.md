@@ -47,11 +47,12 @@ Each assignment focuses on applying deep learning techniques to different data m
 
 ---
 
-### Assignment 3 — []
+### Assignment 3 — Deep Learning Exercise
 
-- **Description:** []
-- **Project Page:** [](./assignment3/)
-- **Repository:** []
+- **Description:** Implement and compare deep learning models on CIFAR-10.
+
+- **Project Page:** [View Assignment 3](https://github.com/thanh-industry/deep-learning-exercise)
+- **Repository:** https://github.com/thanh-industry/deep-learning-exercise
 
 ---
 
