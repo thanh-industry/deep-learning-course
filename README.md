@@ -42,8 +42,8 @@ Each assignment focuses on applying deep learning techniques to different data m
 ### Assignment 2 — []
 
 - **Description:** []
-- **Project Page:** [](./assignment2/)
-- **Repository:** []
+- **Project Page:** [https://github.com/thanh-industry/deep-learning-asm02](./assignment2/)
+- **Repository:** [https://github.com/thanh-industry/deep-learning-asm02]
 
 ---
 
