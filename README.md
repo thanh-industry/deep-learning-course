@@ -39,10 +39,10 @@ Each assignment focuses on applying deep learning techniques to different data m
 
 ---
 
-### Assignment 2 — []
+### Assignment 2 — Vehicle Detection using Deep Learning
 
-- **Description:** []
-- **Project Page:** [https://github.com/thanh-industry/deep-learning-asm02](./assignment2/)
+- **Description:** This project implements and compares two object detection models
+- **Project Page:** [View Assignment 2](https://github.com/thanh-industry/deep-learning-asm02)
 - **Repository:** [https://github.com/thanh-industry/deep-learning-asm02]
 
 ---
